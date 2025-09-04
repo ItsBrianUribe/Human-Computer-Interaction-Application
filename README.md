@@ -6,7 +6,7 @@ This is an application made using HTML/CSS/JavaScript elements with React with t
 - HTML
 - CSS
 - JavaScript
-- React
+- [React](https://react.dev/)
 
 ## Study Results
 Results of the study are found [here](https://github.com/ItsBrianUribe/Human-Computer-Interaction-Application/blob/13d967d833a464edfbd767fc3bdc038b36dd99b5/Experiment%20Results.pdf)
